@@ -13,25 +13,35 @@ import java.util.*;
  */
 
 public class Calculator {
+    Stack<Double> stack = new Stack<>();
+    private Map<String, Cmd> cmds = new HashMap<>();
+    Map<String, Double> defines = new HashMap<>();
+    String[] parts;
+
+    private Calculator() {
+        this.cmds.put("PUSH", new Push());
+        this.cmds.put("PRINT", new Print());
+        this.cmds.put("ADD", new Add());
+        this.cmds.put("SUB", new Sub());
+        this.cmds.put("MUL", new Mul());
+        this.cmds.put("DIV", new Div());
+        this.cmds.put("DEFINE", new Define());
+    }
+
     public static void main(String... args) {
-        Stack<Double> stack = new Stack<Double>();
+
+        Calculator calc = new Calculator();
 
         Scanner s = new Scanner(System.in);
-
-        HashMap<String, Cmd> cmds = new HashMap<>();
-
-        cmds.put("PUSH", new Push());
-        cmds.put("PRINT", new Print());
-        cmds.put("ADD", new Add());
 
         while (true) {
             String line = s.nextLine();
             // PUSH 1
             String[] parts = line.split(" ");
             String cmdName = parts[0].toUpperCase();
+            calc.parts = parts;
 
-            cmds.get(cmdName).exeс(parts, stack);
-
+            calc.cmds.get(cmdName).exec(calc);
         }
     }
 }

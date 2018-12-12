@@ -1,8 +1,7 @@
-import java.util.*;
 
 public class Push implements Cmd {
     @Override
-    public void exeс(String parts[], Stack<Double> stack) {
-        stack.push(Double.valueOf(parts[1]));
+    public void exec(Calculator c) {
+        c.stack.push(Double.valueOf(c.parts[1]));
     }
 }
