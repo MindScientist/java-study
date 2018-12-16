@@ -10,5 +10,9 @@ public class Main {
         l.setName("Ленин");
         System.out.println(m.getName());
         System.out.println(l.getName());
+
+        Capitalize.capitalize1();
+        Capitalize.capitalize2();
+
     }
 }

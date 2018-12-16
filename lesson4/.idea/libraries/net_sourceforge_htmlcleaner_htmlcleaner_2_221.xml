@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="net.sourceforge.htmlcleaner:htmlcleaner:2.221" type="repository">
+    <properties maven-id="net.sourceforge.htmlcleaner:htmlcleaner:2.22" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/htmlcleaner-2.22.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jdom2-2.0.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/lib/htmlcleaner-src-2.22.zip!/htmlcleaner-gui/src/main/java" />
+      <root url="jar://$PROJECT_DIR$/lib/htmlcleaner-src-2.22.zip!/src/main/java" />
+      <root url="jar://$PROJECT_DIR$/lib/htmlcleaner-src-2.22.zip!/src/test/java" />
+    </SOURCES>
+  </library>
+</component>
