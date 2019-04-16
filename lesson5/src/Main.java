@@ -1,7 +1,9 @@
+import java.io.IOException;
+
 public class Main {
-    public static void main(String[] args) {
+    public static void main(String[] args) throws IOException {
         DuplicateFileFinder dff = new DuplicateFileFinder();
-        dff.setInitDir("d:\\Alex\\Studying\\Java\\homework\\lesson5\\test_catalog\\");
+        dff.setInitDir("c:\\Users\\kpbs\\Studying\\Java\\");
         dff.find();
     }
 }

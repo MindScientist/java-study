@@ -38,6 +38,16 @@ public class Main {
         /*int arr[] = new int[20000];
         arraySort.sort(arr);*/
 
+        String[] initArray = duplicateFinder.getCardsList();
+        long t0 = System.currentTimeMillis();
+        duplicateFinder.findDuplicatesUsingJava8(initArray);
+        System.out.println(System.currentTimeMillis() - t0);
+        System.out.println("------------------------");
+
+        long t1 = System.currentTimeMillis();
+        duplicateFinder.findDuplicatesUsingHashMap(initArray);
+        System.out.println(System.currentTimeMillis() - t1);
+
         /* Sort array with use of TreeMap */
 
         /*int arr[] = new int[100];
@@ -45,11 +55,13 @@ public class Main {
 
         /* Search prime numbers */
 
-        int[] nums = new int[1000];
+        /*int[] nums = new int[1000];
         for (int i = 0; i < nums.length; i++) {
             nums[i] = i+1;
         }
-        primeNumbers.returnPrimes(nums);
+        primeNumbers.returnPrimes(nums);*/
+
+
 
     }
 }

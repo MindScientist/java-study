@@ -5,23 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3abc866f-7b07-4d29-83e1-4ecdea030266" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/../lesson3/src/Define.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson3/src/Div.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson3/src/Mul.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson3/src/Sub.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson4/src/com/company/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/com_fasterxml_jackson_core_jackson_databind_2_9_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/duplicateFinder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jsonSerializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson4/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson5/.idea/dbnavigator.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lesson3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lesson3/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lesson3/out/production/lesson3/Add.class" beforeDir="false" afterPath="$PROJECT_DIR$/../lesson3/out/production/lesson3/Add.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lesson3/out/production/lesson3/Calculator.class" beforeDir="false" afterPath="$PROJECT_DIR$/../lesson3/out/production/lesson3/Calculator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lesson3/out/production/lesson3/Cmd.class" beforeDir="false" afterPath="$PROJECT_DIR$/../lesson3/out/production/lesson3/Cmd.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lesson3/out/production/lesson3/Print.class" beforeDir="false" afterPath="$PROJECT_DIR$/../lesson3/out/production/lesson3/Print.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lesson3/out/production/lesson3/Push.class" beforeDir="false" afterPath="$PROJECT_DIR$/../lesson3/out/production/lesson3/Push.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lesson3/src/Add.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lesson3/src/Add.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lesson3/src/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lesson3/src/Calculator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lesson3/src/Cmd.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lesson3/src/Cmd.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lesson3/src/Print.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lesson3/src/Print.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lesson3/src/Push.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lesson3/src/Push.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/studying/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/studying/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/studying.iml" beforeDir="false" afterPath="$PROJECT_DIR$/studying.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lesson4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lesson4/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lesson5/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lesson5/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lesson5/lesson5.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../lesson5/lesson5.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lesson5/out/production/lesson5/DuplicateFileFinder.class" beforeDir="false" afterPath="$PROJECT_DIR$/../lesson5/out/production/lesson5/DuplicateFileFinder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lesson5/out/production/lesson5/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../lesson5/out/production/lesson5/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lesson5/src/DuplicateFileFinder.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lesson5/src/DuplicateFileFinder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lesson5/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lesson5/src/Main.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -33,45 +32,37 @@
   <component name="ExportToHTMLSettings">
     <option name="OUTPUT_DIRECTORY" value="C:\Users\kpbs\IdeaProjects\October 2017\studying\exportToHTML" />
   </component>
-  <component name="FUSProjectUsageTrigger">
-    <session id="131043650">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.closed" value="3" />
-          <entry key="project.open.time.0" value="2" />
-          <entry key="project.open.time.1" value="1" />
-          <entry key="project.opened" value="3" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="java" value="3" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="JAVA" value="3" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="java" value="5" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="JAVA" value="5" />
-        </counts>
-      </usages-collector>
-    </session>
-  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="748">
-              <caret line="44" selection-start-line="44" selection-end-line="44" />
+            <state relative-caret-position="518">
+              <caret line="52" column="35" selection-start-line="52" selection-start-column="35" selection-end-line="52" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/duplicateFinder.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="18" column="29" selection-start-line="18" selection-start-column="29" selection-end-line="18" selection-end-column="29" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/jsonSerializer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="16" column="42" lean-forward="true" selection-start-line="16" selection-start-column="42" selection-end-line="16" selection-end-column="42" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -85,11 +76,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/arraySort.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="153">
-              <caret line="9" column="49" selection-start-line="9" selection-start-column="49" selection-end-line="9" selection-end-column="49" />
+              <caret line="21" column="15" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="15" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -131,16 +122,12 @@
       <list>
         <option value="$PROJECT_DIR$/src/solveQuadEquation.java" />
         <option value="$PROJECT_DIR$/src/arraySort.java" />
-        <option value="$PROJECT_DIR$/src/Main.java" />
         <option value="$PROJECT_DIR$/src/primeNumbers.java" />
+        <option value="$PROJECT_DIR$/src/Main.java" />
+        <option value="$PROJECT_DIR$/src/duplicateFinder.java" />
+        <option value="$PROJECT_DIR$/src/jsonSerializer.java" />
       </list>
     </option>
-  </component>
-  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsGulpfileManager">
-    <detection-done>true</detection-done>
-    <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-8" />
@@ -154,51 +141,37 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
-      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="studying" type="b2602c69:ProjectViewProjectNode" />
-              <item name="studying" type="462c0819:PsiDirectoryNode" />
+              <item name="lesson2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lesson2" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="studying" type="b2602c69:ProjectViewProjectNode" />
-              <item name="studying" type="462c0819:PsiDirectoryNode" />
-              <item name="out" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="studying" type="b2602c69:ProjectViewProjectNode" />
-              <item name="studying" type="462c0819:PsiDirectoryNode" />
-              <item name="out" type="462c0819:PsiDirectoryNode" />
-              <item name="production" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="studying" type="b2602c69:ProjectViewProjectNode" />
-              <item name="studying" type="462c0819:PsiDirectoryNode" />
-              <item name="out" type="462c0819:PsiDirectoryNode" />
-              <item name="production" type="462c0819:PsiDirectoryNode" />
-              <item name="studying" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="studying" type="b2602c69:ProjectViewProjectNode" />
-              <item name="studying" type="462c0819:PsiDirectoryNode" />
+              <item name="lesson2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lesson2" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555429126755" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
@@ -221,8 +194,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
-    <configuration default="true" type="Applet" factoryName="Applet">
+  <component name="RunManager" selected="Application.jsonSerializer">
+    <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -242,13 +215,23 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="jsonSerializer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jsonSerializer" />
+      <module name="studying" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="TestNG" factoryName="TestNG">
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <properties />
       <listeners />
@@ -256,17 +239,18 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
       <module name="" />
       <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
       <option name="PROGRAM_PARAMETERS" />
-      <predefined_log_file id="idea.log" enabled="true" />
+      <predefined_log_file enabled="true" id="idea.log" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.jsonSerializer" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
@@ -289,26 +273,28 @@
       <workItem from="1544628342798" duration="10000" />
       <workItem from="1544628449035" duration="1405000" />
       <workItem from="1544640493219" duration="886000" />
+      <workItem from="1555077127490" duration="11028000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25038000" />
+    <option name="totallyTimeSpent" value="36066000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="54" y="-8" width="1320" height="784" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1984127" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20042644" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.22269353" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.25893825" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3997879" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -317,8 +303,9 @@
       <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="10" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.32979852" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32936078" />
       <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
+      <window_info anchor="right" id="Maven" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -333,59 +320,15 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
-  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/out/production/studying/arraySort.class">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/RuntimeException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="208">
-          <caret line="42" column="45" selection-start-line="42" selection-start-column="45" selection-end-line="42" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/Exception.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="208">
-          <caret line="44" column="35" selection-start-line="44" selection-start-column="35" selection-end-line="44" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/Throwable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="114" column="46" selection-start-line="114" selection-start-column="46" selection-end-line="114" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/ArithmeticException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="40" column="50" selection-start-line="40" selection-start-column="50" selection-end-line="40" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/ArrayList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="191">
-          <caret line="163" column="7" selection-start-line="163" selection-start-column="7" selection-end-line="163" selection-end-column="7" />
-          <folding>
-            <element signature="e#6283#6284#0" expanded="true" />
-            <element signature="e#6351#6352#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="748">
-          <caret line="44" selection-start-line="44" selection-end-line="44" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/RuntimeException.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/Exception.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/Throwable.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/ArithmeticException.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/ArrayList.java" />
     <entry file="file://$PROJECT_DIR$/src/solveQuadEquation.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
@@ -400,10 +343,51 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_172/src.zip!/java/util/stream/IntStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="265">
+          <caret line="666" column="6" lean-forward="true" selection-start-line="666" selection-start-column="6" selection-end-line="666" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_172/src.zip!/java/util/function/Predicate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="48" column="12" selection-start-line="48" selection-start-column="12" selection-end-line="48" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/arraySort.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
-          <caret line="9" column="49" selection-start-line="9" selection-start-column="49" selection-end-line="9" selection-end-column="49" />
+          <caret line="21" column="15" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="15" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="518">
+          <caret line="52" column="35" selection-start-line="52" selection-start-column="35" selection-end-line="52" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/duplicateFinder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="29" selection-start-line="18" selection-start-column="29" selection-end-line="18" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jsonSerializer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="42" lean-forward="true" selection-start-line="16" selection-start-column="42" selection-end-line="16" selection-end-column="42" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -487,6 +471,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
+          <last-edited>com.fasterxml.jackson.core:jackson-databind:2.9.8</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
